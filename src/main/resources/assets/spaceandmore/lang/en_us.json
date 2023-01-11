@@ -1,0 +1,39 @@
+{
+//special items
+	"item.spaceandmore.aether_item": "Aether",
+	"item.spaceandmore.alex_item": "Xander",
+	"item.spaceandmore.aether_alex_love_item": "Aether and Alex <3",
+
+	//testing items
+	"item.spaceandmore.example_item": "Red Among us",
+	"item.spaceandmore.test_item": "Testing item",
+	
+	
+	//testing blocks
+	"block.spaceandmore.example_block": "Yellow among us block",
+	
+	//TESTING ENTITY
+	"entity.spaceandmore.example_entity": "Testing entity",
+	
+	//real items
+	
+	
+	//pickaxes
+	"item.spaceandmore.obsidian_pickaxe_item": "Obsidian pickaxe",
+	
+	//swords
+	"item.spaceandmore.obsidian_sword_item": "Obsidian sword",
+	
+	// ores
+	
+	"item.spaceandmore.obsidian_ingot_item": "Obsidian Ingot",
+	
+	
+	
+	//real blocks
+	
+	
+	"itemGroup.itemgrouptab": "PenguJr's space and more! Items",
+	"itemGroup.blockgrouptab": "PenguJr's space and more! Blocks",
+	"itemGroup.specialgrouptab": "PenguJr's space and more! specials"
+}

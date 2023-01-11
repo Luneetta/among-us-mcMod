@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"XY"
+	],
+	"key": {
+		"X": {
+			"item": "spaceandmore:aether_item"
+		},
+		"Y":{
+			"item": "spaceandmore:alex_item"
+		}
+	},
+	"result": {
+		"item": "spaceandmore:aether_alex_love_item",
+		"count": 1
+	}
+}

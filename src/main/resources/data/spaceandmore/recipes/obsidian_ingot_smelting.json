@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "spaceandmore:obsidian_ingot_item",
+  "experience": 5,
+  "cookingtime": 200
+}

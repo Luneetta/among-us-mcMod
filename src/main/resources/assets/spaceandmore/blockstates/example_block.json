@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"":{
+			"model": "spaceandmore:block/example_block"
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"XXX",
+		"XXX",
+		"XXX"
+	],
+	"key": {
+		"X": {
+			"item": "spaceandmore:example_item"
+		}
+	},
+	"result": {
+		"item": "spaceandmore:example_block",
+		"count": 5
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		" BC",
+		"DEF",
+		" G "
+	],
+	"key": {
+		"B":{
+			"item": "minecraft:milk_bucket"
+		},
+		"C":{
+			"item": "minecraft:warped_door"
+		},
+		"D":{
+			"item": "minecraft:glow_ink_sac"
+		},
+		"E":{
+			"item": "minecraft:rotten_flesh"
+		},
+		"F":{
+			"item": "minecraft:red_mushroom"
+		},
+		"G":{
+			"item": "minecraft:brown_mushroom"
+		}		
+	},
+	"result": {
+		"item": "spaceandmore:aether_item",
+		"count": 1
+	}
+}
